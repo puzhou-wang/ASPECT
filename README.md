@@ -36,7 +36,7 @@ The following repositories are required.
 
 ## Usage
 
-###To run ASPECT
+**To run ASPECT**
 
 ```bash
 python predictor.py [-h] [-t TOKEN_SIZE] [-n NUM_TOPICS] path
@@ -56,13 +56,13 @@ optional arguments:
 
 ​	-tn NUM_TOPICS, --num_topics NUM_TOPICS		number of topics in the topic model (default is 10)
 
-###Input
+**Input**
 
 The path in the above command should be a folder path containing all the sequencing data for a selection experiment. In this folder, each round of sequencing data will be stored in a `csv` file named as "**round<u>X</u>.csv**", where **<u>X</u>** stands for the round number. To run the active sequence predictor, at least two rounds of sequencing data will be needed.
 
 In each csv file, sequencing data should be stored with column name "sequence".
 
-### Output
+**Output**
 
 ASPECT will output all predicted active sequences found in the `last` round csv file, separated by different cluster number. Each csv file is composed by three columns: `seq_num`, `confidence`, and `sequence`.
 
