@@ -1,4 +1,4 @@
-# CS410---ASPECT (Active Sequence PrEdiCTor)
+# ASPECT (Active Sequence PrEdiCTor)
 
 ## Overview
 
