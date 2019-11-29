@@ -16,23 +16,12 @@ The following repositories are required.
    pip install pandas
    ```
 
-2. `numpy`:
-
-   ```bash
-   pip install numpy
-   ```
-
-3. `gensim`:
+2. `gensim`:
 
    ```bash
    pip install gensim
    ```
 
-4. `itertools`:
-
-   ```bash
-   pip install itertools
-   ```
 
 ## Usage
 
