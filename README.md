@@ -1,3 +1,5 @@
+![GibHub Logo](https://github.com/puzhou-wang/ASPECT/blob/master/head.png)
+
 # ASPECT (Active Sequence PrEdiCTor)
 
 ## Overview
