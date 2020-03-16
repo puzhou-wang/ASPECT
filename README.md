@@ -4,6 +4,7 @@
 
 ## Citation
 Please cite the following reference for supporting this repo!
+
 Wang, P. (2020). ASPECT, an LDA-Based Predictive Algorithm for In Vitro Selection. EPiC Series in Computing, 70, 192-197.
 
 ## Overview
