@@ -2,6 +2,10 @@
 
 # ASPECT (Active Sequence PrEdiCTor)
 
+## Citation
+Please cite the following reference for supporting this repo!
+Wang, P. (2020). ASPECT, an LDA-Based Predictive Algorithm for In Vitro Selection. EPiC Series in Computing, 70, 192-197.
+
 ## Overview
 
 In vitro selection is the experiment process by which random sequences of DNA or RNA are examined in parallel to identify those particular sequences (i.e., active sequences) that have a desired function. In vitro selection is widely used for the identification of novel binding and catalytic activity. Even though the initial sequence throughput of in vitro selection is normally ~10^14, the number of eventually identified active sequences is usually on the order of 10^1. Such dramatic difference between the throughputs of input and output for selection experiments is largely attributed to the lack of sequence-function relationship. In other words, it is not possible to screen each sequence for its activity, albeit state-of-the-art sequencing technology allows us to discover more than 10^6 sequences per run.
